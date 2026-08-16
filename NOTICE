@@ -1,0 +1,16 @@
+tokenization-llm
+Copyright 2026 Zakaria Bouazza
+
+This product includes software adapted from "Build a Large Language Model
+(From Scratch)" by Sebastian Raschka:
+
+    https://github.com/rasbt/LLMs-from-scratch
+
+which is licensed under the Apache License, Version 2.0.
+
+Changes: the code has been rewritten and extensively re-commented for learning
+purposes, and several standalone "whole journey" scripts were added.
+
+Not included: the book's text and figures, which remain the copyright of the
+author and publisher (Manning). "the-verdict.txt" is "The Verdict" by Edith
+Wharton (1908) and is in the public domain.

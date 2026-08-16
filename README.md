@@ -50,7 +50,9 @@ Keeping these apart is the whole battle — they come from completely different 
 | `256` | numbers per token | embedding dim — room to carry meaning |
 | `[8, 4, 256]` | the input tensor | all of the above, stacked |
 
-## Credits
+## License & credits
 
-- Following Sebastian Raschka's *Build a Large Language Model (From Scratch)*.
+- The code here is **adapted from** Sebastian Raschka's *[Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)*, which is licensed under the **Apache License 2.0** — rewritten and heavily commented for my own learning. See [`NOTICE`](NOTICE) for attribution and the changes made.
+- This repository is released under the **Apache License 2.0** — see [`LICENSE`](LICENSE).
+- The book's text and figures are **not** included and remain the copyright of the author and publisher.
 - `the-verdict.txt` is *The Verdict* by Edith Wharton (1908) — public domain.
